@@ -1,0 +1,53 @@
+.container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+  }
+  .top {
+    float: left;
+    margin-left: 180px;
+    color: #4f46e5;
+    font-family: sans-serif;
+  }
+  .side {
+    margin-left: 20px;
+    font-family: sans-serif;
+    float: right;
+  }
+  .bottom {
+    margin: 120px 0 0 300px;
+    font-family: sans-serif;
+    font-weight: 900;
+  }
+  .s1,
+  .s3 {
+    font-size: 48px;
+    font-weight: 800;
+  }
+  .s4 {
+    font-size: 18px;
+    color: grey;
+  }
+  .b1 {
+    border: #4f46e5;
+    background-color: #4f46e5;
+    color: aliceblue;
+    font-weight: 500;
+    width: 120px;
+    height: 35px;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  .b2 {
+    width: 120px;
+    height: 35px;
+    border-radius: 5px;
+    color: #4f46e5;
+    border: #e0e7fe;
+    background-color: #e0e7fe;
+  }
